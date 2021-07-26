@@ -1,0 +1,93 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+	font-family: 'Poppins', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Poppins', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+.text-right{
+	text-align: right !important;
+}
+/*header section code start here*/
+.header-section{
+	width: 100%;
+	background-color: #daac00;
+}
+.header-section .bg-light{
+	background: transparent !important;
+	padding: 30px 0px;
+}
+.header-section .navbar-light .navbar-nav .nav-link.active{
+    color: #00bec9;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 1.2px;
+    margin: 0px 30px 0px 50px;
+    text-transform: capitalize;
+}
+.header-section .navbar-light .navbar-nav .nav-link.active:hover,.header-section .navbar-light .navbar-nav .nav-link:hover{
+	color: #00bec9;
+	font-weight: 500;
+	letter-spacing: 1.2px;
+}
+.header-section .navbar-light .navbar-nav .nav-link{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0px 30px 0px 50px;
+    text-transform: capitalize;
+    letter-spacing: 1.2px;
+} 
+.header-section .d-flex .form-control{
+    display: block;
+    width: 100%;
+    padding: 10px 0px 10px 15px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border-radius: 0px;
+    background-color: #fcc302;
+    background-clip: padding-box;
+    border: transparent !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    font-size: 18px;
+}
+.header-section .d-flex .form-control:hover, .header-section .d-flex .form-control:focus{
+	box-shadow: 2px 2px 10px #000;
+	cursor: pointer;
+}
+.header-section .d-flex{
+	position: relative;
+	padding: 0px 0px;
+}
+.header-section .d-flex .form-control::placeholder{
+	color: #fff;
+}
+.header-section .d-flex .btn-outline-success{
+	position: absolute;
+	right: 0;
+	padding: 10px;
+	border: none;
+	border-radius: 0px;
+	background: #00bec9;
+}
+.header-section .d-flex .fa-search{
+	padding: 0px 5px;
+	color: #fff;
+	font-size: 25px;
+}
+.header-section .d-flex .fa-search:hover{
+	color: #fcc302;
+}
+/*header section code end here*/
