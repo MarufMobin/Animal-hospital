@@ -16,6 +16,56 @@
         line-height: 35px;
         text-align: justify;
     }
+    .love-animal .inner-love-animal h4 {
+        font-size: 34px;
+        width: 100%;
+        font-weight: 500;
+        line-height: 48px;
+        text-align: left;
+    }
+    .love-animal .inner-love-animal p {
+        text-align: justify;
+        font-size: 18px;
+        line-height: 30px;
+        margin: 52px 0px;
+    }
+    .love-animal .inner-love-animal .btn-group .btn-info{
+        margin-left: 50px;
+    }
+    .love-animal .img .hover{
+        height: 100%;
+        left: 29px;
+    }
+    .love-animal .inner-love-animal-two{
+        display: block;
+        text-align: center;
+    }
+    .love-animal .inner-love-animal-two .hover{
+        width: 100%;
+        height: 77%;
+    }
+    .love-animal .inner-love-animal-two img{
+        width: 100%;
+    }
+    .title-section .inner-title-full-width h5{
+        font-size: 42px;
+    }
+    .title-section .inner-title-full-width p {
+        font-size: 18px;
+        width: 100%;
+        text-align: justify;
+       font-size: 20px;
+    }
+    .inner-title-image p {
+        font-size: 20px;
+        width: 100%;
+        text-align: left;
+        margin-bottom: 20px;
+    }
+    .inner-title-image h4{
+        width: 100%;
+        text-align: left;
+    }
     /* code end */
 }
 
@@ -37,6 +87,21 @@
         font-size: 22px;
         line-height: 35px;
         text-align: justify;
+    }
+    .inner-title-image p{
+        width: 90%;
+        margin: 0px auto 40px;
+    }
+    .title-section .inner-title-full-width p{
+        width: 100%;
+    }
+    .love-animal .inner-love-animal-two{
+        display: block;
+        text-align: center;
+    }
+    .love-animal .inner-love-animal-two .hover{
+        left: 50px;
+        height: 79%;
     }
     /* code end*/
 }
