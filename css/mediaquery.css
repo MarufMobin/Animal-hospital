@@ -103,6 +103,13 @@
         left: 50px;
         height: 79%;
     }
+    .love-animal .inner-love-animal .btn-group .btn-info{
+        margin-right: 50px;
+    }
+    .love-animal .inner-love-animal .btn-group .btn-info{
+        margin-right: 50%;
+        display: block;
+    }
     /* code end*/
 }
 /* Tablate css code end here */

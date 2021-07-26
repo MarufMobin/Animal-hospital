@@ -292,3 +292,94 @@ a, a:hover{
 	color: #fcc302;
 }
 /*title-section code end here*/
+
+/*vetcare team section code start here*/
+.vetcare-team{
+	width: 100%;
+	padding: 80px 0px 100px;
+	background-color: #fff;
+}
+.vetcare-team .inner-title-full-width{
+	padding: 20px 0px 60px;
+	text-align: center;
+}
+.vetcare-team .inner-title-full-width h5{
+	font-size: 68px;
+	font-weight: 500;
+	letter-spacing: 5.2px;
+	color: #000;
+}
+.vetcare-team .inner-title-full-width p{
+	font-size: 36px;
+	width: 74%;
+	margin: 25px auto;
+	line-height: 52px;
+	letter-spacing: 1.2px;
+	color: #000;
+	font-weight: 500;
+}
+.inner-title-image{
+	width: 100%;
+	text-align: center;
+}
+.inner-title-image h4{
+	font-size: 32px;
+	width: 70%;
+	font-weight: 600;
+	margin: 20px auto;
+	color: #fff;
+}
+.inner-title-image h5{
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 10px;
+}
+.inner-title-image ul{
+	display: block;
+	width: 100%;
+}
+.inner-title-image ul li{
+	display: inline-block;
+	float: left;
+	list-style: none;
+}
+.inner-title-image ul li a{
+	margin-left: 33px;
+	margin-top: 30px;
+	text-align: center;
+	width: 45px;
+	display: block;
+	background: #fcc302;
+	color: #fff;
+	font-size: 20px;
+	padding: 15px;
+	border-radius: 50%;
+	height: 45px;
+	line-height: 18px;
+}
+.inner-title-image ul li a:hover{
+	background-color: #0dcaf0;
+}
+.inner-title-image h4 del{
+	font-size: 50px;
+	margin-right: 25px;
+}
+.inner-title-image p{	
+	font-size: 20px;	
+	width: 74%;	
+	text-align: center;
+	margin: 0px auto;	
+	color: #fff;
+	letter-spacing: 1px;
+	line-height: 30px;
+}
+.inner-title-image .btn-info{
+	font-size: 22px;
+	color: #fff;
+}
+.inner-title-image .btn-info:hover{
+	background-color: #fff !important;
+	border: #fff !important;
+	color: #fcc302;
+}
+/*vetcare team section code start here*/
