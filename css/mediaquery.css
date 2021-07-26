@@ -55,10 +55,16 @@
         width: 58%;
     }
     .banner-section .inner-banner p {
-        width: 100%;
+        width: 48%;
         font-size: 22px;
         line-height: 35px;
         text-align: justify;
+    }
+    .header-section .d-flex .btn-outline-success{
+        display: none;
+    }
+    .header-section .d-flex .form-control{
+        display: none;
     }
     /* code end */
 }
