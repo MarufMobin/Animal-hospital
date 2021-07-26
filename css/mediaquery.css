@@ -1,0 +1,65 @@
+/* Mobile css code start here */
+@media (min-width: 320px) and  (max-width: 480px) {
+    /* code start */
+    .banner-section .inner-banner{
+        padding: 0px;
+    }
+    .banner-section .inner-banner h1 {
+        padding: 60px 0px 0px;
+        font-size: 36px;
+        line-height: 50px;
+        width: 100%;
+    }
+    .banner-section .inner-banner p {
+        width: 100%;
+        font-size: 22px;
+        line-height: 35px;
+        text-align: justify;
+    }
+    /* code end */
+}
+
+/* Mobile css code end here*/
+/* Tablate css code start here */
+@media (min-width: 481px ) and (max-width: 767px){
+    /* code start */
+    .banner-section .inner-banner{
+        padding: 0px;
+    }
+    .banner-section .inner-banner h1 {
+        padding: 60px 0px 0px;
+        font-size: 42px;
+        line-height: 50px;
+        width: 100%;
+    }
+    .banner-section .inner-banner p {
+        width: 100%;
+        font-size: 22px;
+        line-height: 35px;
+        text-align: justify;
+    }
+    /* code end*/
+}
+/* Tablate css code end here */
+
+/* landscript tablate and mini laptop */
+@media (min-width: 768px ) and (max-width: 1024px){
+    /* code start */
+    .banner-section .inner-banner{
+        padding: 0px;
+    }
+    .banner-section .inner-banner h1 {
+        padding: 60px 0px 0px;
+        font-size: 56px;
+        line-height: 78px;
+        width: 58%;
+    }
+    .banner-section .inner-banner p {
+        width: 100%;
+        font-size: 22px;
+        line-height: 35px;
+        text-align: justify;
+    }
+    /* code end */
+}
+/* landscript tablate and mini laptop */
