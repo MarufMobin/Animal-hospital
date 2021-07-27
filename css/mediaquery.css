@@ -30,7 +30,7 @@
         margin: 52px 0px;
     }
     .love-animal .inner-love-animal .btn-group .btn-info{
-        margin-right: 50px;
+        margin-left: 50px;
     }
     .love-animal .img .hover{
         height: 100%;
@@ -62,9 +62,38 @@
         text-align: left;
         margin-bottom: 20px;
     }
-    .inner-title-image h4{
+    .inner-title-image h4 {
         width: 100%;
-        text-align: left;
+        text-align: center;
+    }
+    .inner-title-image{
+        margin-bottom: 30px;
+    }
+    .love-animal .inner-love-animal-two{
+        display: block;
+        text-align: center;
+    }
+    .inner-title-image-hyper{
+        margin-bottom: 25px;
+    }
+    .last-section .inner-sec-part ul li{
+        margin-right: 12px;
+        margin-left: 0px;
+    }
+    .last-section .inner-sec-part ul{
+        text-align: center;
+    }
+    .resent-post .inner-title-full-width p {
+        font-size: 24px;
+        width: 100%;
+        margin: 25px auto;
+        letter-spacing: 0.2px;
+    }
+    .inner-title-image ul li a {
+        margin-left: 20px;
+    }
+    .inner-title-image{
+        margin-bottom: 25px;
     }
     /* code end */
 }
@@ -110,6 +139,10 @@
         margin-right: 50%;
         display: block;
     }
+    .love-animal .inner-love-animal-two{
+        display: block;
+        text-align: center;
+    }
     /* code end*/
 }
 /* Tablate css code end here */
@@ -137,6 +170,13 @@
     }
     .header-section .d-flex .form-control{
         display: none;
+    }
+    .love-animal .inner-love-animal-two{
+        display: block;
+        text-align: center;
+    }
+    .love-animal .inner-love-animal-two .hover{
+        left: 75px;
     }
     /* code end */
 }

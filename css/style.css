@@ -250,10 +250,6 @@ a, a:hover{
 	letter-spacing: 1.2px;
 	color: #fff;
 }
-.inner-title-image{
-	width: 100%;
-	text-align: center;
-}
 .inner-title-image img{
 	width: 100%;
 }
@@ -290,6 +286,14 @@ a, a:hover{
 	background-color: #fff !important;
 	border: #fff !important;
 	color: #fcc302;
+}
+.inner-title-image .logo {
+    width: 25%;
+}
+.inner-title-image .counter{
+	font-size: 24px;
+	font-weight: 700;
+	color: #fff;
 }
 /*title-section code end here*/
 
@@ -383,3 +387,257 @@ a, a:hover{
 	color: #fcc302;
 }
 /*vetcare team section code start here*/
+
+/*satisfy-clints section code start here*/
+.satisfy-clints{
+	width: 100%;
+	padding: 180px 0px;
+	background-image: linear-gradient(to left, rgba(252, 195, 2, .5 ),rgba(252, 195, 2, .5 )) ,url("../images/banner7.png");
+	/*background-image: linear-gradient(to left, rgba(109, 179, 242, .6), rgb(228 204 194)), url('../images/banner7.png');*/
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+}
+/*satisfy-clints section code end here*/
+
+/*vetcare team section code start here*/
+.resent-post{
+	width: 100%;
+	padding: 80px 0px 100px;
+	background-color: #efeeee;
+}
+.resent-post .inner-title-full-width{
+	padding: 20px 0px 60px;
+	text-align: center;
+}
+.resent-post .inner-title-full-width h5{
+	font-size: 68px;
+	font-weight: 600;
+	letter-spacing: 5.2px;
+	color: #000;
+}
+.resent-post .inner-title-full-width p{
+	font-size: 36px;
+	width: 74%;
+	margin: 25px auto;
+	line-height: 52px;
+	letter-spacing: 1.2px;
+	color: #000;
+	font-weight: 500;
+}
+.inner-title-image-hyper{
+	width: 100%;
+	padding: 5px;
+	text-align: center;
+	background-color: #ffff;
+	transition: ease .8; 
+}
+.inner-title-image-hyper img{
+	width: 100% !important;
+	padding: 0px !important;
+}
+.inner-title-image-hyper h4{
+	font-size: 32px;
+	width: 100%;
+	font-weight: 600;
+	margin: 20px auto;
+	text-align: left;
+	color: #000;
+}
+.inner-title-image-hyper .fist{
+	text-align: left !important;
+	color: #00bec9 !important;
+	width: 100%;
+	font-size: 22px;
+	font-weight: 500;
+}
+.inner-title-image-hyper .tow{
+	width: 100%;
+	color: #000;
+	text-align: left;
+	margin: 16px 0px 0px;
+	font-size: 20px;
+	font-weight: 400;
+}
+.inner-title-image-hyper .three{
+	width: 100%;
+	text-align: left;
+	display: block;
+	font-size: 24px;
+	margin: 30px 0px;
+	color: #00bec9 !important;
+}
+.inner-title-image-hyper h5{
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 10px;
+}
+.inner-title-image-hyper p{	
+	font-size: 20px;	
+	width: 74%;	
+	text-align: center;
+	margin: 0px auto;	
+	color: #fff;
+	letter-spacing: 1px;
+	line-height: 30px;
+}
+.inner-title-image-hyper .ext{
+	width: 100%;
+	padding: 20px;
+}
+.inner-title-image-hyper:hover{
+	box-shadow: 0px 4px 13px;
+	cursor: pointer;
+}
+/*vetcare team section code start here*/
+/*last-section code start here*/
+.last-section{
+	width: 100%;
+	padding: 80px 0px;
+	background-color: #343434;
+}
+.last-section .inner-last-section-fist{
+	width: 100%;
+}
+.last-section .inner-last-section-fist h4{
+	font-size: 26px;
+	color: #fff;
+	margin-bottom: 24px;
+	letter-spacing: 1.2px;
+	font-weight: 500;
+}
+.last-section .inner-last-section-fist ul{
+	width: 100%;
+	padding: 0px !important;
+	margin: 0px !important;
+}
+.last-section .inner-last-section-fist ul li{
+	list-style: none;
+	font-size: 20px;
+	font-weight: 500;
+	color: #fff;
+	color: #fff;
+	line-height: 36px;
+}
+.last-section .inner-last-section-fist ul li a{
+	color: #c3c1c1;
+    letter-spacing: 1.2px;
+}
+.last-section .inner-last-section{
+	width: 100%;
+}
+.last-section .inner-last-section h4{
+	font-size: 26px;
+	color: #fff;
+	margin-bottom: 24px;
+	letter-spacing: 1.2px;
+	font-weight: 500;
+}
+.last-section .inner-last-section ul{
+	width: 100%;
+	padding: 0px !important;
+	margin: 0px !important;
+}
+.last-section .inner-last-section ul li{
+	list-style: none;
+	font-size: 20px;
+	font-weight: 500;
+	color: #fff;
+	color: #fff;
+	line-height: 36px;
+}
+.last-section .inner-last-section ul li a{
+	color: #c3c1c1;
+    letter-spacing: 1.2px;
+}
+.last-section .inner-sec-part{
+	width: 100%;
+}
+.last-section .inner-sec-part h4{
+	text-align: right;
+	font-size: 32px;
+	color: #fff;
+	font-weight: 600;
+	letter-spacing: 4.2px;
+	margin: 0px 0px 20px;
+}
+.last-section .inner-sec-part p{
+	text-align: right;
+	font-size: 22px;
+	color: #fff;
+	font-weight: 400;
+	margin-bottom: 20px;
+	letter-spacing: 1.2px;
+}
+.last-section .inner-sec-part ul{
+	display: block;
+	text-align: right;
+}
+.last-section .inner-sec-part ul li{
+	display: inline-block;
+	margin-left: 25px;
+}
+.last-section .inner-sec-part ul li a{
+	width: 20px;
+	padding: 20px;
+	height: 20px;
+	background: #fff;
+	border-radius: 50%;
+	line-height: 115px;
+}
+.last-section .inner-sec-part ul li a .fa{
+    font-size: 25px;
+    text-align: center;
+    vertical-align: middle;
+    color: #343434;
+}
+.last-section .inner-sec-part ul li a:hover{
+	background: #00bec9;
+	color: #ffff;
+}
+.inner-sec-part .d-flex .form-control{
+    display: block;
+    width: 100%;
+    padding: 10px 0px 32px 15px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border-radius: 0px;
+    background-color: #fcc302;
+    background-clip: padding-box;
+    border: transparent !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    font-size: 18px;
+}
+.inner-sec-part .d-flex .form-control:hover, .inner-sec-part .d-flex .form-control:focus{
+	box-shadow: 2px 2px 10px #000;
+	cursor: pointer;
+}
+.inner-sec-part .d-flex{
+	position: relative;
+	padding: 0px 0px;
+}
+.inner-sec-part .d-flex .form-control::placeholder{
+	color: #fff;
+	font-size: 24px;
+}
+.inner-sec-part .d-flex .btn-outline-success{
+	position: absolute;
+	right: 0;
+	padding: 15.5px;
+	border: none;
+	border-radius: 0px;
+	background: #00bec9;
+}
+.inner-sec-part .d-flex .fa-search{
+	padding: 0px 5px;
+	color: #fff;
+	font-size: 36px;
+}
+.inner-sec-part .d-flex .fa-search:hover{
+	color: #fcc302;
+}
+/*last-section code end here*/
